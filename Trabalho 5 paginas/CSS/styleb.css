@@ -1,10 +1,10 @@
 h1 { 
-    color: rgb(0, 255, 21);
+    color: rgb(84, 13, 218);
     font-size: 80px;
     font-family: 'Comforter Brush', cursive;
     font-family: 'Lobster', cursive;
 }
-h2 {color: rgb(211, 135, 129);
+h2 {color: rgb(82, 175, 204);
     font-size: 50px;
     font-family: 'Comforter Brush', cursive;
     font-family: 'Lobster', cursive;
@@ -93,13 +93,13 @@ h2{
 }
 #manipula {
     height: 50%;
-    color: rgb(215, 0, 243);
+    color: rgb(0, 227, 243);
     font-size: 24px;
     background-color: rgba(255, 0, 191, 0.651);
 }
 
 .topo{
-    background-color: rgba(255, 0, 0, 0.4);
+    background-color: rgba(43, 23, 219, 0.4);
     width: 90%;
     height: 90px;
 }  
@@ -120,7 +120,7 @@ h2{
 }
 
 .menu a{
-    color: rgb(243, 243, 243);
+    color: rgb(7, 6, 6);
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Courier New', Courier, monospace;
