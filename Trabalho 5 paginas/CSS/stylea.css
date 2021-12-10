@@ -1,10 +1,10 @@
 h1 { 
-    color: rgb(0, 255, 21);
+    color: rgb(70, 62, 134);
     font-size: 80px;
     font-family: 'Comforter Brush', cursive;
     font-family: 'Lobster', cursive;
 }
-h2 {color: rgb(211, 135, 129);
+h2 {color: rgb(28, 135, 197);
     font-size: 50px;
     font-family: 'Comforter Brush', cursive;
     font-family: 'Lobster', cursive;
@@ -49,12 +49,15 @@ body{
     background-image: url(../Imagens/pngegg1.png);
     text-align: center;
     background-repeat: no-repeat;
-    background-size: 100%;
-    
+    background-size: 50%;
+  
+
+}
+
 
 }
 main{
-    background-color: rgba(91, 131, 124, 0.123);
+    background-color: rgba(92, 121, 116, 0.123);
     padding: 5px 40px;
     margin-top: 20px;
     border-radius: 10px;
@@ -71,7 +74,7 @@ h2{margin-top: 0px;
 }
 
 .comprar{
-    background:rgb(221, 86, 255);
+    background:rgb(68, 76, 185);
     color: rgb(255, 0, 0);
    padding: 10px 50px;
    text-decoration: none;
@@ -124,27 +127,27 @@ h2{margin-top: 0px;
    text-decoration: none;
     text-transform: uppercase;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    padding: 10px 20px;
+    font-size: 50px;
+    padding: 20px 30px;
    display: inline-block;
 }
 
 .menu a:hover{
-    border-radius: 30px;
+    border-radius: 80px;
     background-color: rgb(82, 142, 150);
-        height: 30px;
+        height: 80px;
 }
 
 
 #botoes input{
-    background: rgb(255, 95, 121);
-    padding: 5px;
-    border-radius: 5px;
+    background: rgb(80, 111, 214);
+    padding: 20px;
+    border-radius: 510px;
     border: none;
 }
 
 #botoes input:hover{
-    background: rgb(108, 255, 95);
+    background: rgb(109, 188, 199);
    
 }
 
