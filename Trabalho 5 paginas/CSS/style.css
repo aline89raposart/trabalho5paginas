@@ -45,10 +45,10 @@ h5{
 
 
 body{
-    background-image: url(medusa1.png);
+    background-image: url(../Imagens/dragao.png);
     text-align: center;
     background-repeat: no-repeat;
-    background-size: 200%;
+    background-size: 100%;
     
 
 }
@@ -121,7 +121,7 @@ h2{
 }
 
 .menu a{
-    color: rgb(243, 243, 243);
+    color: rgb(41, 32, 32);
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Courier New', Courier, monospace;
