@@ -46,7 +46,7 @@ h5{
 
 body{
 
-    background-image: url(../Imagens/dragao.png);
+    background-image: url(../Imagens/pngegg1.png);
     text-align: center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -54,7 +54,7 @@ body{
 
 }
 main{
-    background-color: rgba(0, 255, 213, 0.26);
+    background-color: rgba(91, 131, 124, 0.123);
     padding: 5px 40px;
     margin-top: 20px;
     border-radius: 10px;
