@@ -94,9 +94,9 @@ h2{
 }
 #manipula {
     height: 50%;
-    color: rgb(215, 0, 243);
+    color: rgb(10, 146, 139);
     font-size: 24px;
-    background-color: rgba(255, 0, 191, 0.651);
+    background-color: rgba(55, 0, 255, 0.651);
 }
 
 .topo{
@@ -132,7 +132,7 @@ h2{
 
 .menu a:hover{
     border-radius: 30px;
-    background-color: rgb(107, 11, 24);
+    background-color: rgb(82, 142, 150);
         height: 30px;
 }
 
