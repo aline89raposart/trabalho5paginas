@@ -1,15 +1,15 @@
 h1 { 
-    color: rgb(0, 255, 21);
+    color: rgb(0, 0, 0);
     font-size: 80px;
     font-family: 'Comforter Brush', cursive;
     font-family: 'Lobster', cursive;
 }
-h2 {color: rgb(211, 135, 129);
+h2 {color: rgb(0, 0, 0);
     font-size: 50px;
     font-family: 'Comforter Brush', cursive;
     font-family: 'Lobster', cursive;
 }
-h3{color: rgb(215, 0, 243);
+h3{color: rgb(0, 0, 0);
     font-size: 40px;
     font-family: 'Comforter Brush', cursive;
     font-family: 'Lobster', cursive;
@@ -17,7 +17,7 @@ h3{color: rgb(215, 0, 243);
 }
 
 h4{
-    color: rgb(186, 192, 197);
+    color: rgb(10, 10, 10);
     font-size: 50px;
     font-family: 'Comforter Brush', cursive;
 font-family: 'Lobster', cursive;
@@ -44,7 +44,7 @@ h5{
 
 
 body{
-    background-image: url(Imagens/dragao.png);
+    background-image: url(../Imagens/pngegg.png);
     text-align: center;
     background-repeat: no-repeat;
     background-size: 200%;
@@ -120,7 +120,7 @@ h2{
 }
 
 .menu a{
-    color: rgb(243, 243, 243);
+    color: rgb(5, 0, 0);
     text-decoration: none;
     text-transform: uppercase;
     font-family: 'Courier New', Courier, monospace;
@@ -131,7 +131,7 @@ h2{
 
 .menu a:hover{
     border-radius: 30px;
-    background-color: rgb(107, 11, 24);
+    background-color: rgb(236, 99, 117);
         height: 30px;
 }
 
